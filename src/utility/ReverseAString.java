@@ -13,5 +13,6 @@ public class ReverseAString {
             reverse += ch;
         }
         System.out.println(reverse);
+        // test galochka
     }
 }
